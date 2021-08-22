@@ -1,0 +1,10 @@
+{
+        "name": "Adblocker at Noon",
+        "version": "1.0",
+        "description": "Adblocker made by HDTD",
+        "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+        "background": {
+            "scripts": ["index.js"]
+        },
+        "manifest_version": 2
+}
